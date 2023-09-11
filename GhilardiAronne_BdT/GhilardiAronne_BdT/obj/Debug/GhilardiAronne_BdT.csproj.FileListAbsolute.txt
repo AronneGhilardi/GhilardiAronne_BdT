@@ -1,0 +1,14 @@
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\bin\Debug\GhilardiAronne_BdT.exe.config
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\bin\Debug\GhilardiAronne_BdT.exe
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\bin\Debug\GhilardiAronne_BdT.pdb
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.csproj.AssemblyReference.cache
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.csproj.SuggestedBindingRedirects.cache
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.Form1.resources
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.Properties.Resources.resources
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.csproj.GenerateResource.cache
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.csproj.CoreCompileInputs.cache
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.csproj.CopyComplete
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.exe
+C:\Users\aronn\source\repos\GhilardiAronne_BdT\GhilardiAronne_BdT\obj\Debug\GhilardiAronne_BdT.pdb
